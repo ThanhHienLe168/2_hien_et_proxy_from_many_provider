@@ -1,0 +1,55 @@
+[
+    {
+        "provider_id": "tin",
+        "provider_name": "Tin proxy",
+        "provider_link": "https://tinproxy.com/",
+        "account_list": [],
+        "proxy_api_key_list": [
+            "IMqMb5GcuoisklpwMtQLfa21EPdKU2p8",
+            "VLBWOPMXo0o3nILVo62zLRA01ybdYJdn",
+            "9bUFFpe6GBAN2wNdEbe6f8ScGpv9bQ3M",
+            "u7sXzAqg070gQb0lX6cpi9hM5zVykIpu",
+            "RCVsRHCmrYj102uD0XAn45Wtt2l9K0oX"
+
+        ],
+        "for_single_thread": "1"
+    },
+    {
+        "provider_id": "luna",
+        "provider_name": "Luna proxy",
+        "provider_link": "https://www.lunaproxy.com/",
+        "account_list": [
+            {
+                "user_name": "Luna_subacc_3",
+                "password": "123456"
+            },
+            {
+                "user_name": "Luna_subacc_4",
+                "password": "123456"
+            },
+            {
+                "user_name": "Luna_subacc_5",
+                "password": "123456"
+            },
+            {
+                "user_name": "Luna_subacc_6",
+                "password": "123456"
+            }
+        ],
+        "proxy_api_key_list": [],
+        "for_single_thread": "1"
+    },
+    {
+        "provider_id": "brightdata",
+        "provider_name": "Brightdata data-center proxy",
+        "provider_link": "https://brightdata.com/",
+        "account_list": [
+            {
+                "user_name": "brd-customer-hl_26de7fde-zone-data_center",
+                "password": "5aw3qou8s5kk"
+            }
+        ],
+        "proxy_api_key_list": [],
+        "for_single_thread": "0"
+    }
+]
